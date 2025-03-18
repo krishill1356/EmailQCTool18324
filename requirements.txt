@@ -1,0 +1,5 @@
+textstat
+language-tool-python
+textblob
+pandas
+matplotlib
